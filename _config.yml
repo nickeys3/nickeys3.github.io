@@ -1,7 +1,7 @@
-title: An Embedded developer who wants to be a Web developer.
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: 임베디드 개발자라 쓰고, 웹 개발자라 읽습니다.
+subtitle: 웹 개발자로 전직하는 험난한 길을 걷는 중입니다.
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
+  From 2022-06-26...
 
 url: "https://nickeys3.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -73,10 +73,10 @@ author_project_details:
 # social links
 twitter_username:
 github_username:  nickeys3
-facebook_username:
-linkedin_username:
+facebook_username: minjun.hong.79
+linkedin_username: minjun-hong-957557ab
 behance_username:
-instagram_username:
+instagram_username: what_empty
 medium_username:
 telegram_username:
 dribbble_username:
