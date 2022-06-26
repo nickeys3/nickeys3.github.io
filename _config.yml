@@ -1,5 +1,5 @@
-title: 임베디드 개발자라 쓰고, 웹 개발자라 읽습니다.
-subtitle: 웹 개발자로 전직하는 험난한 길을 걷는 중입니다.
+title: Nickeys
+subtitle: 임베디드 개발자라 쓰고, 웹 개발자라 읽습니다.
 description: >- # this means to ignore newlines until "baseurl:"
   From 2022-06-26...
 
@@ -16,8 +16,6 @@ urls:
       url: /blog
     - text: Gallery
       url: /gallery
-    - text: Shop
-      url : /shop
     - text: Contact
       url : /contact
 
@@ -26,7 +24,7 @@ urls:
 
 author_logo: profile.jpeg
 author: Nick Hong
-author_bio: 
+author_bio: 웹 개발자로 전직하는 험난한 길을 걷는 중입니다.
 author_email: "nickeysna@naver.com"
 author_location: Hwa-seong si, South Korea
 author_website_url: ""
@@ -39,8 +37,8 @@ author_work_experiences:
               company_logo: samsung.png
               company_url: https://www.samsung.com/sec/
               designation: Assistant Engineer
-              description:
-              visibility: true
+              description: 
+              visibility: false
             - company_name: Microsoft
               company_logo: microsoft.png
               company_url: https://microsoft.com
