@@ -89,7 +89,7 @@ hyvor_talk_website_id: 7310
 wakatime_username:
 
 # mailchimp embedded form url (newsletter):
-mailchimp_form_url:
+mailchimp_form_url: https://github.us11.list-manage.com/subscribe/post?u=a18a6d6d9cd4310b30a68b26b&amp;id=6215e188e0
 
 # contact form - (choose formspress or getform)
 # getform_endpoint: 83b703c3-9e47-4df4-ac55-e24d7eb02abc
